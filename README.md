@@ -22,6 +22,9 @@ This repository contains the code for a powerful multiclass dog breeds classific
 
 The model has been trained on a large and diverse dataset, resulting in high accuracy and robustness in classifying dog breeds. It has undergone extensive testing and evaluation, achieving impressive performance metrics.
 
+![epochs_detail](https://github.com/AdityaSharma2485/dog_breeds_classification/assets/92670331/8794d177-e05c-43ad-be8d-e4c8630c3362)
+
+
 ## Potential Applications
 
 This multiclass dog breeds classification model has various potential applications, including:
@@ -32,5 +35,12 @@ This multiclass dog breeds classification model has various potential applicatio
 - Serving as a valuable tool for dog enthusiasts, veterinarians, and dog-related businesses.
 
 Feel free to explore the code, experiment with the model, and contribute to its further improvement. Let's celebrate the world of dog breeds classification and its wide-ranging possibilities!
+
+![0](https://github.com/AdityaSharma2485/dog_breeds_classification/assets/92670331/44badc5c-7003-4774-ad6e-587c1463b801)
+
+![1](https://github.com/AdityaSharma2485/dog_breeds_classification/assets/92670331/1cef03d9-a7b1-4c56-bad8-e2283c64a098)
+
+![2](https://github.com/AdityaSharma2485/dog_breeds_classification/assets/92670331/d5795015-e446-480f-9c49-850d47677295)
+
 
 **Please note that the project code in this repository is currently not licensed and all rights are reserved.**
