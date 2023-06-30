@@ -14,7 +14,7 @@ This repository contains the code for a powerful multiclass dog breeds classific
 ## Usage
 
 1. Install the required dependencies mentioned in the `requirements.txt` file.
-2. Run the `dog_breeds_classification.py` file to launch the frontend interface.
+2. Run the `Prediction.py` file to launch the frontend interface.
 3. Browse and select an image of a dog from your local system.
 4. Click the "Predict" button to see the model's prediction of the dog's breed.
 
